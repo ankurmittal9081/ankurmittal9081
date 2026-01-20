@@ -19,5 +19,5 @@
 - System Design Basics
 
 ### 📫 Connect with Me
-- LinkedIn: (add link)
+- LinkedIn: https://www.linkedin.com/in/ankurmittal-cse/
 - Email: ankurmittal9081@gmail.com
