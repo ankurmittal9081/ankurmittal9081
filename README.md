@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋 I'm Ankur Mittal
 
-<!--
-**ankurmittal9081/ankurmittal9081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | 💻 Full Stack Developer  
+🚀 Passionate about building real-world applications
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express, Java, Spring Boot
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- 🧹 Clean City Rewards – Smart waste management system
+- 📚 Free Education Platform – MERN based learning app
+- ✅ Task Tracker – CRUD app with LocalStorage
+
+### 📈 Currently Learning
+- Data Structures & Algorithms
+- System Design Basics
+
+### 📫 Connect with Me
+- LinkedIn: (add link)
+- Email: ankurmittal9081@gmail.com
