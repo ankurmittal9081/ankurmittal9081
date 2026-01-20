@@ -1,5 +1,45 @@
 # 💫 About Me:
-I’m currently working on<br><br>Full-stack web applications using React, Node.js & MongoDB<br><br>Academic & real-world Java / Spring Boot projects<br><br>🤝 I’m looking to collaborate on<br><br>Open-source projects<br><br>Web development & backend systems<br><br>Student-led tech projects<br><br>🆘 I’m looking for help with<br><br>System design basics<br><br>Writing clean, scalable backend code<br><br>Improving DSA problem-solving skills<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms<br><br>Spring Boot & REST APIs<br><br>Git, GitHub & clean coding practices<br><br>💬 Ask me about<br><br>Java & backend development<br><br>MongoDB & REST APIs<br><br>GitHub project structuring<br><br>⚡ Fun fact<br><br>I enjoy turning ideas into working code 🚀
+🔭 I’m currently working on
+
+Full-stack web applications using React, Node.js, and MongoDB
+
+Java & Spring Boot–based backend projects for academic and real-world use
+
+🤝 I’m looking to collaborate on
+
+Open-source projects
+
+Backend-focused and full-stack web applications
+
+Student-led technical projects and hackathons
+
+🆘 I’m looking for help with
+
+System design fundamentals
+
+Writing clean, scalable backend code
+
+Improving DSA and problem-solving skills
+
+🌱 I’m currently learning
+
+Data Structures & Algorithms
+
+Spring Boot and RESTful API development
+
+Git, GitHub, and clean coding best practices
+
+💬 Ask me about
+
+Java & backend development
+
+MongoDB and REST APIs
+
+Structuring and managing GitHub projects
+
+⚡ Fun fact
+
+I love turning ideas into working, real-world applications 🚀
 
 
 ## 🌐 Socials:
